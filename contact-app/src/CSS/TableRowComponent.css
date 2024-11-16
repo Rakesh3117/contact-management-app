@@ -1,0 +1,11 @@
+
+.table-row-container {
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+}
+
+.table-cell-container {
+  padding: 16px; 
+  text-align: center;
+}
+
