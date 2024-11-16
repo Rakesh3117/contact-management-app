@@ -1,0 +1,20 @@
+{
+  "name": "contactmanagementmaterialui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Contact Management App using Material UI",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm install --prefix backend && npm install --prefix contact-app",
+    "start-backend": "npm start --prefix backend",
+    "start-frontend": "npm start --prefix contact-app",
+    "start": "concurrently \"npm start --prefix backend\" \"npm start --prefix contact-app\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
