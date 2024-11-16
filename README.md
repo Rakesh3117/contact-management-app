@@ -25,11 +25,11 @@ Before starting, ensure you have the following installed:
 ---
 
 ### **Step 2: Clone the Repository**
-```bash
+
+ ```bash
 git clone <repository-url>
 cd <repository-folder>
-
-
+```
 ## **Project Setup and Workflow**
 
 ### **Step 1: Install Dependencies**
@@ -39,6 +39,8 @@ Run the following command at the project root to install dependencies for both f
 ```bash
 npm run install-all
 npm start
+```
+
 
 ## Features Workflow
 
@@ -79,3 +81,4 @@ npm start
 - **Express.js**
 - **MongoDB (Mongoose)**
 - **JSON Web Tokens (JWT)**
+
