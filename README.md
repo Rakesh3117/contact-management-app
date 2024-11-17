@@ -27,8 +27,8 @@ Before starting, ensure you have the following installed:
 ### **Step 2: Clone the Repository**
 
  ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Rakesh3117/contact-management-app.git
+cd contact-management-app
 ```
 ## **Project Setup and Workflow**
 
